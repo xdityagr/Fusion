@@ -33,7 +33,7 @@ Currently, Fusion aims to combines the best features of modern languages:
 To get started with Fusion, download the executable from the releases page:
 
 1. **Download Fusion**:
-   - Visit the [Lastest Releases Page](https://github.com/xdityagr/Fusion/releases/tag/v0.1.0-alpha).
+   - Visit the [Latest Releases Page](https://github.com/xdityagr/Fusion/releases/tag/v0.1.0-alpha).
    - Download the latest `Fusion.exe` for your operating system.
 
 2. **Run Fusion**:
